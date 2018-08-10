@@ -1,4 +1,1194 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/97.jpg" group-title="DEPORTES-SPORTS",AYM SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/97.m3u8
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="beINLaLiga.es" tvg-logo="http://158.69.228.135:8000/imagenes/460.jpg" group-title="DEPORTES-SPORTS",BEIN LALIGA ES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/460.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3281.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3281.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3282.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 4
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3282.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3283.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 5
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3283.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3284.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 6
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3284.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beINSports7.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3285.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 7
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3285.m3u8
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beINSports8.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3286.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 8
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3286.m3u8
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beINSports9.qa" tvg-logo="http://158.69.228.135:8000/imagenes/3287.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 9
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3288.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS 10
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3288.m3u8
+#EXTINF:-1 tvg-id="beINSports.es" tvg-name="beINSports.es" tvg-logo="http://158.69.228.135:8000/imagenes/442.jpg" group-title="DEPORTES-SPORTS",BEIN SPORTS ES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/442.m3u8
+#EXTINF:-1 tvg-id="beINSport.ca" tvg-name="beINSport.ca" tvg-logo="http://158.69.228.135:8000/imagenes/473.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS ES HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/405.jpg" group-title="DEPORTES-SPORTS",BEINSPORTS N
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/405.m3u8
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="BenficaTV1.pt" tvg-logo="http://158.69.228.135:8000/imagenes/2843.jpg" group-title="DEPORTES-SPORTS",BENFICA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2843.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation.uk" tvg-logo="http://158.69.228.135:8000/imagenes/204.jpg" group-title="DEPORTES-SPORTS",BOXNATION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",BRESCIA TV
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="http://158.69.228.135:8000/imagenes/174.jpg" group-title="DEPORTES-SPORTS",BT SPORT 1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/174.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="http://158.69.228.135:8000/imagenes/166.jpg" group-title="DEPORTES-SPORTS",BT SPORT 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/166.m3u8
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CDFBasico.cl" tvg-logo="http://158.69.228.135:8000/imagenes/5414.jpg" group-title="DEPORTES-SPORTS",CDF BASICO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8920.jpg" group-title="DEPORTES-SPORTS",CDF HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8920.m3u8
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDFPremium.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1819.jpg" group-title="DEPORTES-SPORTS",CDF PREMIUM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5389.jpg" group-title="DEPORTES-SPORTS",CDF SD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5389.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="ChelseaTV.uk" tvg-logo="http://158.69.228.135:8000/imagenes/2841.jpg" group-title="DEPORTES-SPORTS",CHELSEA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3267.jpg" group-title="DEPORTES-SPORTS",CHIVAS TV FHD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1753.jpg" group-title="DEPORTES-SPORTS",CHIVAS TV HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/415.jpg" group-title="DEPORTES-SPORTS",CHIVAS TV SD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4566.jpg" group-title="DEPORTES-SPORTS",CLARO SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4205.jpg" group-title="DEPORTES-SPORTS",CNT SPORT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1017.jpg" group-title="DEPORTES-SPORTS",DIRECTV SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2863.jpg" group-title="DEPORTES-SPORTS",DIRECTV SPORTS 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5410.jpg" group-title="DEPORTES-SPORTS",DIRECTV SPORTS PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2851.jpg" group-title="DEPORTES-SPORTS",ELEVEN SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/91.jpg" group-title="DEPORTES-SPORTS",ESPN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/91.m3u8
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPNLatin.mx" tvg-logo="http://158.69.228.135:8000/imagenes/119.jpg" group-title="DEPORTES-SPORTS",ESPN (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2858.jpg" group-title="DEPORTES-SPORTS",ESPN (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/92.jpg" group-title="DEPORTES-SPORTS",ESPN 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/92.m3u8
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="Espn2.mx" tvg-logo="http://158.69.228.135:8000/imagenes/152.jpg" group-title="DEPORTES-SPORTS",ESPN 2 (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4049.jpg" group-title="DEPORTES-SPORTS",ESPN 2 (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4049.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2.us" tvg-logo="http://158.69.228.135:8000/imagenes/236.jpg" group-title="DEPORTES-SPORTS",ESPN 2 US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/93.jpg" group-title="DEPORTES-SPORTS",ESPN 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/153.jpg" group-title="DEPORTES-SPORTS",ESPN 3 (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2860.jpg" group-title="DEPORTES-SPORTS",ESPN 3 (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3990.jpg" group-title="DEPORTES-SPORTS",ESPN DEPORTES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3990.m3u8
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPNplus.mx" tvg-logo="http://158.69.228.135:8000/imagenes/110.jpg" group-title="DEPORTES-SPORTS",ESPN PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/234.jpg" group-title="DEPORTES-SPORTS",ESPNU
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/234.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU.us" tvg-logo="http://158.69.228.135:8000/imagenes/286.jpg" group-title="DEPORTES-SPORTS",ESPN US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/416.jpg" group-title="DEPORTES-SPORTS",ESTADIO CDF HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1729.jpg" group-title="DEPORTES-SPORTS",ESTADIO CDF SD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1729.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport1.fr" tvg-logo="http://158.69.228.135:8000/imagenes/1832.jpg" group-title="DEPORTES-SPORTS",EUROSPORTS 1 HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1832.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport2.fr" tvg-logo="http://158.69.228.135:8000/imagenes/1831.jpg" group-title="DEPORTES-SPORTS",EUROSPORTS 2 HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2856.jpg" group-title="DEPORTES-SPORTS",FANTASY SPORTS NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2856.m3u8
+#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FightBox.UK" tvg-logo="http://158.69.228.135:8000/imagenes/4206.jpg" group-title="DEPORTES-SPORTS",FIGHT BOX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4206.m3u8
+#EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="UFCNetwork.mx" tvg-logo="http://158.69.228.135:8000/imagenes/165.jpg" group-title="DEPORTES-SPORTS",FIGHTING
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/165.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="FightNetwork.ca" tvg-logo="http://158.69.228.135:8000/imagenes/2842.jpg" group-title="DEPORTES-SPORTS",FIGHT NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2842.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FoxDeportes.us" tvg-logo="http://158.69.228.135:8000/imagenes/2844.jpg" group-title="DEPORTES-SPORTS",FOX DEPORTES (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2844.m3u8
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="FOXSoccerPlus.us" tvg-logo="http://158.69.228.135:8000/imagenes/2435.jpg" group-title="DEPORTES-SPORTS",FOX SOCCER PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/94.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/94.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FoxSports.mx" tvg-logo="http://158.69.228.135:8000/imagenes/118.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/118.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.cl" tvg-name="FoxSports1.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1746.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS (CHILE)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1746.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FoxSports.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1820.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 1 (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1820.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FoxSports.ar" tvg-logo="http://158.69.228.135:8000/imagenes/5411.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 1 (AR) (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5411.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FoxSports1.us" tvg-logo="http://158.69.228.135:8000/imagenes/232.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 1 US HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/95.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/95.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FoxSports2.mx" tvg-logo="http://158.69.228.135:8000/imagenes/151.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 2  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/151.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FoxSports2.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1821.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 2 (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1821.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FoxSports2.ar" tvg-logo="http://158.69.228.135:8000/imagenes/8766.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 2 (AR)-(1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4140.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4140.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FoxSports3.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1822.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS 3 (AR)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1822.m3u8
+#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-name="FoxSportsFlorida.us" tvg-logo="http://158.69.228.135:8000/imagenes/2850.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS FLORIDA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2850.m3u8
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="FoxSportsPremium.ar" tvg-logo="http://158.69.228.135:8000/imagenes/9402.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS PREMIUM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9402.m3u8
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="FoxSportsPremium.ar" tvg-logo="http://158.69.228.135:8000/imagenes/5413.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS PREMIUM (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3396.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS PREMIUM HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3396.m3u8
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="FoxSportsSun.us" tvg-logo="http://158.69.228.135:8000/imagenes/2852.jpg" group-title="DEPORTES-SPORTS",FOX SPORTS SUN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2857.jpg" group-title="DEPORTES-SPORTS",FUBO CYCLING
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4141.jpg" group-title="DEPORTES-SPORTS",GOLF LATINOAMERICA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4141.m3u8
+#EXTINF:-1 tvg-id="GolTV.pe" tvg-name="GolTV.pe" tvg-logo="http://158.69.228.135:8000/imagenes/488.jpg" group-title="DEPORTES-SPORTS",GOLPERU
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2848.jpg" group-title="DEPORTES-SPORTS",GOLTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9400.jpg" group-title="DEPORTES-SPORTS",GOLTV ECUADOR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/13.jpg" group-title="DEPORTES-SPORTS",HMX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9780.jpg" group-title="DEPORTES-SPORTS",IZZI AFIZZIONADOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8927.jpg" group-title="DEPORTES-SPORTS",LATIN AMERICAN SPORTS TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8927.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV.uk" tvg-logo="http://158.69.228.135:8000/imagenes/3991.jpg" group-title="DEPORTES-SPORTS",MANCHESTER UNITED TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3991.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLBNetwork.us" tvg-logo="http://158.69.228.135:8000/imagenes/1453.jpg" group-title="DEPORTES-SPORTS",MLB NETWORK HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1453.m3u8
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="MovistarFormula1.es" tvg-logo="http://158.69.228.135:8000/imagenes/431.jpg" group-title="DEPORTES-SPORTS",MOVISTAR F1 HD (ES)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/431.m3u8
+#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="MovistarFutbol.es" tvg-logo="http://158.69.228.135:8000/imagenes/1830.jpg" group-title="DEPORTES-SPORTS",MOVISTAR FUTBOL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1830.m3u8
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="MovistarMotoGP.es" tvg-logo="http://158.69.228.135:8000/imagenes/432.jpg" group-title="DEPORTES-SPORTS",MOVISTAR MOTO GP
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3932.jpg" group-title="DEPORTES-SPORTS",MY9
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3932.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBATV.us" tvg-logo="http://158.69.228.135:8000/imagenes/347.jpg" group-title="DEPORTES-SPORTS",NBA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/347.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBCSportsNetwork.us" tvg-logo="http://158.69.228.135:8000/imagenes/2434.jpg" group-title="DEPORTES-SPORTS",NBC DEPORTES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2434.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBCSportsNetwork.us" tvg-logo="http://158.69.228.135:8000/imagenes/3933.jpg" group-title="DEPORTES-SPORTS",NBCSN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3933.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFLNetwork.us" tvg-logo="http://158.69.228.135:8000/imagenes/215.jpg" group-title="DEPORTES-SPORTS",NFL NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3679.jpg" group-title="DEPORTES-SPORTS",NHL NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5470.jpg" group-title="DEPORTES-SPORTS",OUTDOOR CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/96.jpg" group-title="DEPORTES-SPORTS",PX TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI 5
+http://originstream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI NEWS
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI SCUOLA
+http://originstream6.rai.it:1935/italy/smil:raiscuola.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALIA",RAI STORIA
+http://originstream6.rai.it:1935/italy/smil:raistoria.smil/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadridTV.es" tvg-logo="http://158.69.228.135:8000/imagenes/1786.jpg" group-title="DEPORTES-SPORTS",REAL MADRID TV HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1786.m3u8
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="SkyBundesliga1.de" tvg-logo="http://158.69.228.135:8000/imagenes/1781.jpg" group-title="DEPORTES-SPORTS",SCAI BUNDESLIGA 1 HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1781.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="http://158.69.228.135:8000/imagenes/4562.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS ACTION HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4562.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SkySportsCricket.uk" tvg-logo="http://158.69.228.135:8000/imagenes/4563.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS CRICKET HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4563.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1.uk" tvg-logo="http://158.69.228.135:8000/imagenes/4564.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS F1 HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5320.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS FOOTBALL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5320.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SkySportsGolf.uk" tvg-logo="http://158.69.228.135:8000/imagenes/4561.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS GOLF HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4561.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SkySportsPremiereLeague.uk" tvg-logo="http://158.69.228.135:8000/imagenes/4560.jpg" group-title="DEPORTES-SPORTS",SCAI SPORTS PREMIER LEAGUE HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4560.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SportTV1.pt" tvg-logo="http://158.69.228.135:8000/imagenes/1769.jpg" group-title="DEPORTES-SPORTS",SPORT TV1 PT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1769.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SportTV2.pt" tvg-logo="http://158.69.228.135:8000/imagenes/1768.jpg" group-title="DEPORTES-SPORTS",SPORT TV2 PT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1768.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SportTV3.pt" tvg-logo="http://158.69.228.135:8000/imagenes/1767.jpg" group-title="DEPORTES-SPORTS",SPORT TV3 PT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1767.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SportTV4.pt" tvg-logo="http://158.69.228.135:8000/imagenes/1770.jpg" group-title="DEPORTES-SPORTS",SPORT TV4 PT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1770.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SportTV5.pt" tvg-logo="http://158.69.228.135:8000/imagenes/1771.jpg" group-title="DEPORTES-SPORTS",SPORT TV5 PT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5273.jpg" group-title="DEPORTES-SPORTS",SY SPORTS (MX)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5412.jpg" group-title="DEPORTES-SPORTS",TDN (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5412.m3u8
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN.mx" tvg-logo="http://158.69.228.135:8000/imagenes/167.jpg" group-title="DEPORTES-SPORTS",TDN (MEX)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/167.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte.es" tvg-logo="http://158.69.228.135:8000/imagenes/424.jpg" group-title="DEPORTES-SPORTS",TELE DEPORTES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/424.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="http://158.69.228.135:8000/imagenes/2849.jpg" group-title="DEPORTES-SPORTS",THE GOLF CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2849.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="http://158.69.228.135:8000/imagenes/9401.jpg" group-title="DEPORTES-SPORTS",TNT SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9401.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="http://158.69.228.135:8000/imagenes/3395.jpg" group-title="DEPORTES-SPORTS",TNT SPORTS HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3395.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1.ca" tvg-logo="http://158.69.228.135:8000/imagenes/4031.jpg" group-title="DEPORTES-SPORTS",TSN SPORTS 1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4031.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2.ca" tvg-logo="http://158.69.228.135:8000/imagenes/4032.jpg" group-title="DEPORTES-SPORTS",TSN SPORTS 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4032.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3.ca" tvg-logo="http://158.69.228.135:8000/imagenes/4033.jpg" group-title="DEPORTES-SPORTS",TSN SPORTS 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4033.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4.ca" tvg-logo="http://158.69.228.135:8000/imagenes/4034.jpg" group-title="DEPORTES-SPORTS",TSN SPORTS 4
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4034.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5.ca" tvg-logo="http://158.69.228.135:8000/imagenes/4035.jpg" group-title="DEPORTES-SPORTS",TSN SPORTS 5
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4035.m3u8
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVCDeportes.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3507.jpg" group-title="DEPORTES-SPORTS",TVC DEPORTES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3507.m3u8
+#EXTINF:-1 tvg-id="TycSports.ar" tvg-name="TycSports.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1790.jpg" group-title="DEPORTES-SPORTS",TYC SPORTS (ARG)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5105.jpg" group-title="DEPORTES-SPORTS",UFC FIGHT PASS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5105.m3u8
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UnivisionDeportes.us" tvg-logo="http://158.69.228.135:8000/imagenes/1754.jpg" group-title="DEPORTES-SPORTS",UNIVISION DEPORTES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1754.m3u8
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="UnivisionDeportes.us" tvg-logo="http://158.69.228.135:8000/imagenes/1449.jpg" group-title="DEPORTES-SPORTS",UNIVISION DEPORTES HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1449.m3u8
+#EXTINF:-1 tvg-id="Tdn.hn" tvg-name="Tdn.hn" tvg-logo="http://158.69.228.135:8000/imagenes/164.jpg" group-title="DEPORTES-SPORTS",UNIVISION TDN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/164.m3u8
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE.us" tvg-logo="http://158.69.228.135:8000/imagenes/1730.jpg" group-title="DEPORTES-SPORTS",WWE HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES-SPORTS",YES NETWORKS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9562.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="http://158.69.228.135:8000/imagenes/60.jpg" group-title="MUNDO-CULTURA",ANIMAL PLANET
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8926.jpg" group-title="MUNDO-CULTURA",ANIMAL PLANET (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8926.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/59.jpg" group-title="MUNDO-CULTURA",DISCOVERY CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/59.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3539.jpg" group-title="MUNDO-CULTURA",DISCOVERY CHANNEL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3539.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.co" tvg-name="DiscoveryCivilization.co" tvg-logo="http://158.69.228.135:8000/imagenes/65.jpg" group-title="MUNDO-CULTURA",DISCOVERY CIVILIZATION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/65.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DiscoveryHomeHealth.mx" tvg-logo="http://158.69.228.135:8000/imagenes/61.jpg" group-title="MUNDO-CULTURA",DISCOVERY HOME & HEALTH
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8922.jpg" group-title="MUNDO-CULTURA",DISCOVERY HOME & HEALTH (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8922.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DiscoveryScience.in" tvg-logo="http://158.69.228.135:8000/imagenes/64.jpg" group-title="MUNDO-CULTURA",DISCOVERY SCIENCE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/64.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="http://158.69.228.135:8000/imagenes/55.jpg" group-title="MUNDO-CULTURA",DISCOVERY THEATER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8818.jpg" group-title="MUNDO-CULTURA",DISCOVERY THEATER (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8818.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC.mx" tvg-logo="http://158.69.228.135:8000/imagenes/67.jpg" group-title="MUNDO-CULTURA",DISCOVERY TLC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8924.jpg" group-title="MUNDO-CULTURA",DISCOVERY TLC (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8924.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="DiscoveryTurbo.co" tvg-logo="http://158.69.228.135:8000/imagenes/66.jpg" group-title="MUNDO-CULTURA",DISCOVERY TURBO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8817.jpg" group-title="MUNDO-CULTURA",DISCOVERY TURBO (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8817.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="http://158.69.228.135:8000/imagenes/58.jpg" group-title="MUNDO-CULTURA",DISCOVERY WORLD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8816.jpg" group-title="MUNDO-CULTURA",DISCOVERY WORLD (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/183.jpg" group-title="MUNDO-CULTURA",H2 LATINO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/183.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HistoryChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/56.jpg" group-title="MUNDO-CULTURA",HISTORY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/56.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HistoryChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/127.jpg" group-title="MUNDO-CULTURA",HISTORY (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/127.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery.mx" tvg-logo="http://158.69.228.135:8000/imagenes/32.jpg" group-title="MUNDO-CULTURA",INVESTIGATION DISCOVERY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3537.jpg" group-title="MUNDO-CULTURA",INVESTIGATION DISCOVERY (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3537.m3u8
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NatGeo.mx" tvg-logo="http://158.69.228.135:8000/imagenes/62.jpg" group-title="MUNDO-CULTURA",NAT GEO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/687.jpg" group-title="MUNDO-CULTURA",NAT GEO  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2847.jpg" group-title="MUNDO-CULTURA",NAT GEO  MUNDO HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2847.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NatGeoWild.mx" tvg-logo="http://158.69.228.135:8000/imagenes/57.jpg" group-title="MUNDO-CULTURA",NATGEO WILD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/408.jpg" group-title="INFANTILES",BABY TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/408.m3u8
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang.mx" tvg-logo="http://158.69.228.135:8000/imagenes/52.jpg" group-title="INFANTILES",BOOMERANG
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/52.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="http://158.69.228.135:8000/imagenes/50.jpg" group-title="INFANTILES",CARTOON NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/50.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mk" tvg-name="CartoonNetwork.mk" tvg-logo="http://158.69.228.135:8000/imagenes/126.jpg" group-title="INFANTILES",CARTOON NETWORK (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",CHACHI PUM TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9714.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="http://158.69.228.135:8000/imagenes/42.jpg" group-title="INFANTILES",DISCOVERY KIDS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8923.jpg" group-title="INFANTILES",DISCOVERY KIDS (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8923.m3u8
+#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney.mx" tvg-logo="http://158.69.228.135:8000/imagenes/46.jpg" group-title="INFANTILES",DISNEY CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/46.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="http://158.69.228.135:8000/imagenes/44.jpg" group-title="INFANTILES",DISNEY JUNIOR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/44.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="http://158.69.228.135:8000/imagenes/51.jpg" group-title="INFANTILES",DISNEY XD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",LOCOMOTION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9715.m3u8
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3280.jpg" group-title="INFANTILES",NAT GEO KIDS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3280.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon2.mx" tvg-name="Nickelodeon2.mx" tvg-logo="http://158.69.228.135:8000/imagenes/48.jpg" group-title="INFANTILES",NICK 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/48.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon.mx" tvg-logo="http://158.69.228.135:8000/imagenes/49.jpg" group-title="INFANTILES",NICKELODEON
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/705.jpg" group-title="INFANTILES",NICKELODEON (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/705.m3u8
+#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="NickJr..mx" tvg-logo="http://158.69.228.135:8000/imagenes/45.jpg" group-title="INFANTILES",NICK JR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/710.jpg" group-title="INFANTILES",NICK JR (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/710.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons.de" tvg-logo="http://158.69.228.135:8000/imagenes/47.jpg" group-title="INFANTILES",NICK TOONS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/47.m3u8
+#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TiiN.mx" tvg-logo="http://158.69.228.135:8000/imagenes/53.jpg" group-title="INFANTILES",TIIN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/53.m3u8
+#EXTINF:-1 tvg-id="Tooncast.co" tvg-name="Tooncast.co" tvg-logo="http://158.69.228.135:8000/imagenes/54.jpg" group-title="INFANTILES",TOONCAST
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/54.m3u8
+#EXTINF:-1 tvg-id="Citytv.co" tvg-name="Citytv.co" tvg-logo="http://158.69.228.135:8000/imagenes/483.jpg" group-title="INTERNACIONALES",CITY TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/337.jpg" group-title="INTERNACIONALES",RT EN ESPANOL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/337.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe.co" tvg-logo="http://158.69.228.135:8000/imagenes/1045.jpg" group-title="INTERNACIONALES",TELECARIBE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9775.jpg" group-title="INTERNACIONALES",TELESUR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5326.jpg" group-title="INTERNACIONALES",TLT VENEZUELA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5326.m3u8
+#EXTINF:-1 tvg-id="WapaTV.us" tvg-name="WapaTV.us" tvg-logo="http://158.69.228.135:8000/imagenes/484.jpg" group-title="INTERNACIONALES",WAPA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/484.m3u8
+#EXTINF:-1 tvg-id="America24.ar" tvg-name="America24.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1026.jpg" group-title="ARGENTINA",A24
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1026.m3u8
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="America2.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1019.jpg" group-title="ARGENTINA",AMERICA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1019.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1024.jpg" group-title="ARGENTINA",C5N
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1024.m3u8
+#EXTINF:-1 tvg-id="Channel26.ar" tvg-name="Channel26.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1033.jpg" group-title="ARGENTINA",CANAL 26
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1033.m3u8
+#EXTINF:-1 tvg-id="Cine.ar" tvg-name="Cine.ar" tvg-logo="http://158.69.228.135:8000/imagenes/9050.jpg" group-title="ARGENTINA",CINE AR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5243.jpg" group-title="ARGENTINA",CIUDAD MAGAZINE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1028.jpg" group-title="ARGENTINA",CRONICA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1028.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1027.jpg" group-title="ARGENTINA",DEPORTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1027.m3u8
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="Canal9.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1023.jpg" group-title="ARGENTINA",EL NUEVE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1023.m3u8
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="El13.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1020.jpg" group-title="ARGENTINA",EL TRECE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1020.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1032.jpg" group-title="ARGENTINA",ENCUENTRO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1032.m3u8
+#EXTINF:-1 tvg-id="PakaPaka.ar" tvg-name="PakaPaka.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1029.jpg" group-title="ARGENTINA",PAKAPAKA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1029.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1021.jpg" group-title="ARGENTINA",TELEFE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1025.jpg" group-title="ARGENTINA",TODO NOTICIAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1025.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1022.jpg" group-title="ARGENTINA",TV PUBLICA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1022.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV.br" tvg-logo="http://158.69.228.135:8000/imagenes/3680.jpg" group-title="BRASIL",RECORD TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3680.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Redetv.br" tvg-logo="http://158.69.228.135:8000/imagenes/8819.jpg" group-title="BRASIL",REDE TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8819.m3u8
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT.br" tvg-logo="http://158.69.228.135:8000/imagenes/8820.jpg" group-title="BRASIL",SBT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8820.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="RedeGlobo.br" tvg-logo="http://158.69.228.135:8000/imagenes/3677.jpg" group-title="BRASIL",TV GLOBO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3677.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal13.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1825.jpg" group-title="CHILE",CANAL 13
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3387.jpg" group-title="CHILE",CDO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1779.jpg" group-title="CHILE",CDO PREMIUM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1779.m3u8
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevision.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1726.jpg" group-title="CHILE",CHILEVISION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1726.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNNChile.cl" tvg-logo="http://158.69.228.135:8000/imagenes/2303.jpg" group-title="CHILE",CNN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",FMHOT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9412.m3u8
+#EXTINF:-1 tvg-id="Lared.cl" tvg-name="Lared.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1049.jpg" group-title="CHILE",LA RED
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1049.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1725.jpg" group-title="CHILE",MEGA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1725.m3u8
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1780.jpg" group-title="CHILE",TELETRAK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1780.m3u8
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TVChile.cl" tvg-logo="http://158.69.228.135:8000/imagenes/3449.jpg" group-title="CHILE",TV CHILE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3449.m3u8
+#EXTINF:-1 tvg-id="TVN24.cl" tvg-name="TVN24.cl" tvg-logo="http://158.69.228.135:8000/imagenes/1727.jpg" group-title="CHILE",TVN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="158.69.228.135:8000/imagenes/4207.jpg" group-title="CHILE",VTV (CH)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4207.m3u8
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="CableNoticias.co" tvg-logo="http://158.69.228.135:8000/imagenes/5404.jpg" group-title="COLOMBIA",CABLE NOTICIAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5404.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol.co" tvg-logo="http://158.69.228.135:8000/imagenes/1038.jpg" group-title="COLOMBIA",CARACOL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1038.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="CaracolInternacional.co" tvg-logo="http://158.69.228.135:8000/imagenes/1039.jpg" group-title="COLOMBIA",CARACOL INT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1039.m3u8
+#EXTINF:-1 tvg-id="ElTiempo.co" tvg-name="ElTiempo.co" tvg-logo="https://s6.postimg.org/wumj631ox/elti.png" group-title="COLOMBIA",EL TIEMPO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1041.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN.co" tvg-logo="https://s6.postimg.org/6bzajmdld/rcn.png" group-title="COLOMBIA",RCN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1035.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCNNovelas.co" tvg-logo="https://s6.postimg.org/um8rkkz0x/rcn.png" group-title="COLOMBIA",RCN NOVELAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/418.m3u8
+#EXTINF:-1 tvg-id="RcnNuestra.co" tvg-name="RcnNuestra.co" tvg-logo="https://s6.postimg.org/75pohgnrl/RCN_HD2.png" group-title="COLOMBIA",RCN NUESTRA TELE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1037.m3u8
+#EXTINF:-1 tvg-id="Senal.co" tvg-name="Senal.co" tvg-logo="http://158.69.228.135:8000/imagenes/5271.jpg" group-title="COLOMBIA",SENAL COLOMBIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5271.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia.co" tvg-logo="https://s6.postimg.org/8bkhorxap/telean.png" group-title="COLOMBIA",TELEANTIOQUIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1044.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico.co" tvg-logo="http://158.69.228.135:8000/imagenes/1034.jpg" group-title="COLOMBIA",TELEPACIFICO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1034.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal13.cl" tvg-logo="https://s6.postimg.org/n10qfja6p/co13.png" group-title="COLOMBIA",TRECE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/487.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WinSports.co" tvg-logo="http://158.69.228.135:8000/imagenes/1036.jpg" group-title="COLOMBIA",WIN SPORTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3446.jpg" group-title="ECUADOR",ECUAVISA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3447.jpg" group-title="ECUADOR",OROMAR TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3445.jpg" group-title="ECUADOR",RTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3448.jpg" group-title="ECUADOR",TC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3676.jpg" group-title="ESPANA",#0 HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3676.m3u8
+#EXTINF:-1 tvg-id="AandE.es" tvg-name="AandE.es" tvg-logo="http://158.69.228.135:8000/imagenes/443.jpg" group-title="ESPANA",A&E.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/443.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries.es" tvg-logo="http://158.69.228.135:8000/imagenes/3236.jpg" group-title="ESPANA",A3 SERIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3236.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC.es" tvg-logo="http://158.69.228.135:8000/imagenes/468.jpg" group-title="ESPANA",AMC HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/468.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" tvg-logo="http://158.69.228.135:8000/imagenes/467.jpg" group-title="ESPANA",ANTENA 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/467.m3u8
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN.es" tvg-logo="http://158.69.228.135:8000/imagenes/466.jpg" group-title="ESPANA",AXN  HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/466.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXNWhite.es" tvg-logo="http://158.69.228.135:8000/imagenes/465.jpg" group-title="ESPANA",AXN WHITE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/465.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24Horas.es" tvg-logo="http://158.69.228.135:8000/imagenes/1063.jpg" group-title="ESPANA",CANAL 24H
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1063.m3u8
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="CanalCocina.es" tvg-logo="http://158.69.228.135:8000/imagenes/438.jpg" group-title="ESPANA",CANAL COCINA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/438.m3u8
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="CazaPesca.es" tvg-logo="" group-title="ESPANA",CAZA Y PESCA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3675.m3u8
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ClanTVE.es" tvg-logo="http://158.69.228.135:8000/imagenes/1065.jpg" group-title="ESPANA",CLAN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1065.m3u8
+#EXTINF:-1 tvg-id="CrimenInvestigacion.es" tvg-name="CrimenInvestigacion.es" tvg-logo="http://158.69.228.135:8000/imagenes/3712.jpg" group-title="ESPANA",CRIMEN INVESTIGATION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3712.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" tvg-logo="http://158.69.228.135:8000/imagenes/456.jpg" group-title="ESPANA",CUATRO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/456.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="DiscoveryChannel.es" tvg-logo="http://158.69.228.135:8000/imagenes/437.jpg" group-title="ESPANA",DISCOVERY CHANNEL.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/437.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="DisneyChannel.es" tvg-logo="http://158.69.228.135:8000/imagenes/436.jpg" group-title="ESPANA",DISNEY CHANNEL.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/436.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="DisneyJunior.es" tvg-logo="http://158.69.228.135:8000/imagenes/435.jpg" group-title="ESPANA",DISNEY JUNIOR.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/435.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="DisneyXD.es" tvg-logo="http://158.69.228.135:8000/imagenes/434.jpg" group-title="ESPANA",DISNEY XD.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/434.m3u8
+#EXTINF:-1 tvg-id="FactoriaFiccion.es" tvg-name="FactoriaFiccion.es" tvg-logo="http://158.69.228.135:8000/imagenes/1064.jpg" group-title="ESPANA",FDF
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1064.m3u8
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="Fox.es" tvg-logo="http://158.69.228.135:8000/imagenes/455.jpg" group-title="ESPANA",FOX.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/455.m3u8
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="FoxLife.es" tvg-logo="http://158.69.228.135:8000/imagenes/454.jpg" group-title="ESPANA",FOX LIFE.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/454.m3u8
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia.es" tvg-logo="http://158.69.228.135:8000/imagenes/1451.jpg" group-title="ESPANA",HISTORIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1451.m3u8
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="Hollywood.es" tvg-logo="http://158.69.228.135:8000/imagenes/453.jpg" group-title="ESPANA",HOLLYWOOD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/453.m3u8
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA1.es" tvg-logo="http://158.69.228.135:8000/imagenes/452.jpg" group-title="ESPANA",LA 1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/452.m3u8
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA2.es" tvg-logo="http://158.69.228.135:8000/imagenes/451.jpg" group-title="ESPANA",LA 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/451.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" tvg-logo="http://158.69.228.135:8000/imagenes/450.jpg" group-title="ESPANA",LA SEXTA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/450.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega.es" tvg-logo="http://158.69.228.135:8000/imagenes/449.jpg" group-title="ESPANA",MEGA.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/449.m3u8
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="MovistarAccion.es" tvg-logo="http://158.69.228.135:8000/imagenes/464.jpg" group-title="ESPANA",MOVISTAR ACCION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/464.m3u8
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="MovistarComedia.es" tvg-logo="http://158.69.228.135:8000/imagenes/463.jpg" group-title="ESPANA",MOVISTAR COMEDIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/463.m3u8
+#EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="MovistarDCine.es" tvg-logo="http://158.69.228.135:8000/imagenes/462.jpg" group-title="ESPANA",MOVISTAR DCINE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/462.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="MovistarDeportes.es" tvg-logo="http://158.69.228.135:8000/imagenes/441.jpg" group-title="ESPANA",MOVISTAR DEPORTES 1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/441.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="MovistarDeportes2.es" tvg-logo="http://158.69.228.135:8000/imagenes/3674.jpg" group-title="ESPANA",MOVISTAR DEPORTES 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3674.m3u8
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="MovistarEstrenos.es" tvg-logo="http://158.69.228.135:8000/imagenes/461.jpg" group-title="ESPANA",MOVISTAR ESTRENOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/461.m3u8
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="MovistarGolf.es" tvg-logo="http://158.69.228.135:8000/imagenes/440.jpg" group-title="ESPANA",MOVISTAR GOLF
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/440.m3u8
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="MovistarSeries.es" tvg-logo="http://158.69.228.135:8000/imagenes/459.jpg" group-title="ESPANA",MOVISTAR SERIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/459.m3u8
+#EXTINF:-1 tvg-id="CcanalPlusSeriesXtra.es" tvg-name="CcanalPlusSeriesXtra.es" tvg-logo="http://158.69.228.135:8000/imagenes/458.jpg" group-title="ESPANA",MOVISTAR SERIES XTRA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/458.m3u8
+#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="MovistarXtra.es" tvg-logo="http://158.69.228.135:8000/imagenes/457.jpg" group-title="ESPANA",MOVISTAR XTRA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/457.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="NatGeoWild.es" tvg-logo="http://158.69.228.135:8000/imagenes/430.jpg" group-title="ESPANA",NAT GEO WILD.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/430.m3u8
+#EXTINF:-1 tvg-id="NatGeo.es" tvg-name="NatGeo.es" tvg-logo="http://158.69.228.135:8000/imagenes/429.jpg" group-title="ESPANA",NATIONAL GEOGRAPHIC.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/429.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" tvg-logo="http://158.69.228.135:8000/imagenes/448.jpg" group-title="ESPANA",NEOX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/448.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon.es" tvg-logo="http://158.69.228.135:8000/imagenes/427.jpg" group-title="ESPANA",NICKELODEON HD.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/427.m3u8
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="NickJr.es" tvg-logo="http://158.69.228.135:8000/imagenes/428.jpg" group-title="ESPANA",NICK JR.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/428.m3u8
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="Odisea.es" tvg-logo="http://158.69.228.135:8000/imagenes/426.jpg" group-title="ESPANA",ODISEA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/426.m3u8
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="CanalPanda.es" tvg-logo="http://158.69.228.135:8000/imagenes/425.jpg" group-title="ESPANA",PANDA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/425.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="ParamountChannel.es" tvg-logo="http://158.69.228.135:8000/imagenes/447.jpg" group-title="ESPANA",PARAMOUNT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/447.m3u8
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="SyFy.es" tvg-logo="http://158.69.228.135:8000/imagenes/446.jpg" group-title="ESPANA",SYFY.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/446.m3u8
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM.es" tvg-logo="http://158.69.228.135:8000/imagenes/445.jpg" group-title="ESPANA",TCM.
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/445.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" tvg-logo="http://158.69.228.135:8000/imagenes/444.jpg" group-title="ESPANA",TELECINCO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/444.m3u8
+#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="TeleMadrid.es" tvg-logo="http://158.69.228.135:8000/imagenes/1062.jpg" group-title="ESPANA",TELEMADRID
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1062.m3u8
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros.es" tvg-logo="http://158.69.228.135:8000/imagenes/439.jpg" group-title="ESPANA",TOROS TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/439.m3u8
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="Viajar.es" tvg-logo="http://158.69.228.135:8000/imagenes/420.jpg" group-title="ESPANA",VIAJAR
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/420.m3u8
+#EXTINF:-1 tvg-id="Amastv.mx" tvg-name="Amastv.mx" tvg-logo="http://158.69.228.135:8000/imagenes/2281.jpg" group-title="MEXICO",A+
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5251.jpg" group-title="MEXICO",ACUSTIC TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9.jpg" group-title="MEXICO",ADN 40
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/101.jpg" group-title="MEXICO",AZ CLIC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/101.m3u8
+#EXTINF:-1 tvg-id="AzMundo.co" tvg-name="AzMundo.co" tvg-logo="http://158.69.228.135:8000/imagenes/40.jpg" group-title="MEXICO",AZ MUNDO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/40.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="http://158.69.228.135:8000/imagenes/5.jpg" group-title="MEXICO",AZTECA 7
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3861.jpg" group-title="MEXICO",AZTECA 7 (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3861.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AzCorazon.mx" tvg-logo="http://158.69.228.135:8000/imagenes/27.jpg" group-title="MEXICO",AZTECA CORAZON
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/27.m3u8
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo="http://158.69.228.135:8000/imagenes/8.jpg" group-title="MEXICO",AZTECA UNO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8.m3u8
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca13.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3862.jpg" group-title="MEXICO",AZTECA UNO (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",AZTECA UNO (OP2)
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5321.jpg" group-title="MEXICO",CANAL 4 GDL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5323.jpg" group-title="MEXICO",CANAL 4 MONCLOVA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5323.m3u8
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="5Nacional.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3.jpg" group-title="MEXICO",CANAL 5
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3.m3u8
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="5Nacional.mx" tvg-logo="http://158.69.228.135:8000/imagenes/149.jpg" group-title="MEXICO",CANAL 5 (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/149.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="CanalOnce.mx" tvg-logo="http://158.69.228.135:8000/imagenes/7.jpg" group-title="MEXICO",CANAL 11
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5406.jpg" group-title="MEXICO",CANAL 12 TIJUANA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",CANAL 26 AGS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5325.jpg" group-title="MEXICO",CANAL 28 CHIHUAHUA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5325.m3u8
+#EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="EfektoTVNoticias.mx" tvg-logo="http://158.69.228.135:8000/imagenes/190.jpg" group-title="MEXICO",EFEKTO TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/190.m3u8
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="ForoTv.mx" tvg-logo="http://158.69.228.135:8000/imagenes/4.jpg" group-title="MEXICO",FORO TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4.m3u8
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="ForoTv.mx" tvg-logo="http://158.69.228.135:8000/imagenes/148.jpg" group-title="MEXICO",FORO TV (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4036.jpg" group-title="MEXICO",GALA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5322.jpg" group-title="MEXICO",GALA TV ACAPULCO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5341.jpg" group-title="MEXICO",GALA TV MORELOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5341.m3u8
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="GalaTV9Nacional.mx" tvg-logo="http://158.69.228.135:8000/imagenes/6.jpg" group-title="MEXICO",GALAVISION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/6.m3u8
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="GalaTV9Nacional.mx" tvg-logo="http://158.69.228.135:8000/imagenes/135.jpg" group-title="MEXICO",GALAVISION HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3535.jpg" group-title="MEXICO",IMAGEN TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2.jpg" group-title="MEXICO",LAS ESTRELLAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="http://158.69.228.135:8000/imagenes/150.jpg" group-title="MEXICO",LAS ESTRELLAS  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",LAS ESTRELLAS (OP2)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1071.jpg" group-title="MEXICO",LAS ESTRELLAS -2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1071.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MilenioTelevision.mx" tvg-logo="http://158.69.228.135:8000/imagenes/98.jpg" group-title="MEXICO",MILENIO TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3858.jpg" group-title="MEXICO",MILENIO TV (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3858.m3u8
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios.mx" tvg-logo="http://158.69.228.135:8000/imagenes/12.jpg" group-title="MEXICO",MULTIMEDIOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4048.jpg" group-title="MEXICO",MULTIMEDIOS LAGUNA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4048.m3u8
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios.mx" tvg-logo="http://158.69.228.135:8000/imagenes/367.jpg" group-title="MEXICO",MULTIMEDIOS PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1811.jpg" group-title="MEXICO",MVS NOTICIAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1811.m3u8
+#EXTINF:-1 tvg-id="Teleocho.ar" tvg-name="Teleocho.ar" tvg-logo="http://158.69.228.135:8000/imagenes/1607.jpg" group-title="MEXICO",OCHOTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3151.jpg" group-title="MEXICO",TELEVER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4037.jpg" group-title="MEXICO",TELEVISA MTY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MEXICO",TVMAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3633.jpg" group-title="PANAMA",C.DEPORTE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4800.jpg" group-title="PANAMA",CDEPORTE (FC)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9051.jpg" group-title="PANAMA",ECO TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3630.jpg" group-title="PANAMA",HOSANNA VISION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3629.jpg" group-title="PANAMA",NEX TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4802.jpg" group-title="PANAMA",OYE TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3632.jpg" group-title="PANAMA",RPC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4801.jpg" group-title="PANAMA",SER TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3627.jpg" group-title="PANAMA",TELEMETRO 13
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3741.jpg" group-title="PANAMA",TV2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3742.jpg" group-title="PANAMA",TV MAX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1046.jpg" group-title="PERU",AMERICA TV HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1046.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV.pe" tvg-logo="http://158.69.228.135:8000/imagenes/490.jpg" group-title="PERU",ATV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1874.jpg" group-title="PERU",CAPITAL TV HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1874.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="FrecuenciaLatina.pe" tvg-logo="http://158.69.228.135:8000/imagenes/1048.jpg" group-title="PERU",FRECUENCIA  LATINA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1048.m3u8
+#EXTINF:-1 tvg-id="Panamericana tv.pe" tvg-name="Panamericana tv.pe" tvg-logo="http://158.69.228.135:8000/imagenes/1050.jpg" group-title="PERU",PANAMERICANA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1052.jpg" group-title="PERU",PERU MAGICO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1052.m3u8
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TvPeru.pe" tvg-logo="http://158.69.228.135:8000/imagenes/1053.jpg" group-title="PERU",TV PERU
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1053.m3u8
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="TvPeru.pe" tvg-logo="http://158.69.228.135:8000/imagenes/1051.jpg" group-title="PERU",TV PERU 7.3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1051.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="http://158.69.228.135:8000/imagenes/1873.jpg" group-title="PERU",WILLAX TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/logos/1173.png" group-title="REP DOMINICANA",CANAL 25
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4683.jpg" group-title="REP DOMINICANA",CDN SPORT MAX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4683.m3u8
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="Cosmovision.co" tvg-logo="http://158.69.228.135:8000/imagenes/1170.jpg" group-title="REP DOMINICANA",COLORVISION CANAL 9
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1171.jpg" group-title="REP DOMINICANA",TELESISTEMA CANAL 11
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1176.jpg" group-title="REP DOMINICANA",TNI (RD)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3204.jpg" group-title="URUGUAY",A + V
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4208.jpg" group-title="URUGUAY",AZUL FM (101.1)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2968.jpg" group-title="URUGUAY",CHARRUA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2968.m3u8
+#EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="MonteCarloTV.uy" tvg-logo="http://158.69.228.135:8000/imagenes/413.jpg" group-title="URUGUAY",MONTECARLO TV (CANAL 4)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/413.m3u8
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="Canal10.uy" tvg-logo="http://158.69.228.135:8000/imagenes/8969.jpg" group-title="URUGUAY",SAETA (CANAL 10)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8969.m3u8
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="Canal10.uy" tvg-logo="http://158.69.228.135:8000/imagenes/414.jpg" group-title="URUGUAY",SAETA (CANAL 10)-(720P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/414.m3u8
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="Canal12.uy" tvg-logo="http://158.69.228.135:8000/imagenes/9558.jpg" group-title="URUGUAY",TELEDOCE (CANAL 12)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9558.m3u8
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="Canal12.uy" tvg-logo="http://158.69.228.135:8000/imagenes/1860.jpg" group-title="URUGUAY",TELEDOCE (CANAL 12)-(720P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1860.m3u8
+#EXTINF:-1 tvg-id="TelevisionNacionalUruguay.uy" tvg-name="TelevisionNacionalUruguay.uy" tvg-logo="http://158.69.228.135:8000/imagenes/1599.jpg" group-title="URUGUAY",TNU (CANAL 5)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1599.m3u8
+#EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="TeveCiudad.uy" tvg-logo="http://158.69.228.135:8000/imagenes/1601.jpg" group-title="URUGUAY",TV CIUDAD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1601.m3u8
+#EXTINF:-1 tvg-id="VeraPlus.uy" tvg-name="VeraPlus.uy" tvg-logo="http://158.69.228.135:8000/imagenes/1600.jpg" group-title="URUGUAY",VERA PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1600.m3u8
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV.uy" tvg-logo="http://158.69.228.135:8000/imagenes/1450.jpg" group-title="URUGUAY",VTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1450.m3u8
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV.uy" tvg-logo="http://158.69.228.135:8000/imagenes/5471.jpg" group-title="URUGUAY",VTV (OP2)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5471.m3u8
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV.uy" tvg-logo="http://158.69.228.135:8000/imagenes/5472.jpg" group-title="URUGUAY",VTV (OP3)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5472.m3u8
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV.uy" tvg-logo="http://158.69.228.135:8000/imagenes/493.jpg" group-title="URUGUAY",VTV HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/493.m3u8
+#EXTINF:-1 tvg-id="VTVPLUS" tvg-name="VTVPLUS" tvg-logo="http://158.69.228.135:8000/imagenes/494.jpg" group-title="URUGUAY",VTV PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/494.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax.mx" tvg-logo="http://158.69.228.135:8000/imagenes/109.jpg" group-title="MUSICA",BANDAMAX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5175.jpg" group-title="MUSICA",EXA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5324.jpg" group-title="MUSICA",HEARTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",HIT TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4041.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV.mx" tvg-logo="http://158.69.228.135:8000/imagenes/105.jpg" group-title="MUSICA",MTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/105.m3u8
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3857.jpg" group-title="MUSICA",MTV (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3716.jpg" group-title="MUSICA",MTV BASE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3715.jpg" group-title="MUSICA",MTV CLASSIC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3714.jpg" group-title="MUSICA",MTV DANCE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3714.m3u8
+#EXTINF:-1 tvg-id="MTVHits.ar" tvg-name="MTVHits.ar" tvg-logo="http://158.69.228.135:8000/imagenes/106.jpg" group-title="MUSICA",MTV HITS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/106.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTVLive.us" tvg-logo="http://158.69.228.135:8000/imagenes/102.jpg" group-title="MUSICA",MTV LIVE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/121.jpg" group-title="MUSICA",MTV LIVE (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3713.jpg" group-title="MUSICA",MTV ROCKS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4042.jpg" group-title="MUSICA",MUSIC CHOICE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4045.jpg" group-title="MUSICA",NRJ HITS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4775.jpg" group-title="MUSICA",RETRO TV SD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4775.m3u8
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="Ritmoson.mx" tvg-logo="http://158.69.228.135:8000/imagenes/108.jpg" group-title="MUSICA",RITMOSON
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/108.m3u8
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="Ritmoson.mx" tvg-logo="http://158.69.228.135:8000/imagenes/752.jpg" group-title="MUSICA",RITMOSON (720P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/752.m3u8
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit.mx" tvg-logo="http://158.69.228.135:8000/imagenes/103.jpg" group-title="MUSICA",TELEHIT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/103.m3u8
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit.mx" tvg-logo="http://158.69.228.135:8000/imagenes/753.jpg" group-title="MUSICA",TELEHIT  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4047.jpg" group-title="MUSICA",TELERITMO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4044.jpg" group-title="MUSICA",TU MUSICA HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4044.m3u8
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1.mx" tvg-logo="http://158.69.228.135:8000/imagenes/104.jpg" group-title="MUSICA",VH1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/104.m3u8
+#EXTINF:-1 tvg-id="VH1Classic.za" tvg-name="VH1Classic.za" tvg-logo="http://158.69.228.135:8000/imagenes/107.jpg" group-title="MUSICA",VH1 CLASSIC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5261.jpg" group-title="MUSICA",VIRGIN TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5261.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://158.69.228.135:8000/imagenes/250.jpg" group-title="NOTICIAS-NEWS",BBC NEWS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3926.jpg" group-title="NOTICIAS-NEWS",CNBS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/197.jpg" group-title="NOTICIAS-NEWS",CNN EN ESPANOL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/197.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN.us" tvg-logo="http://158.69.228.135:8000/imagenes/244.jpg" group-title="NOTICIAS-NEWS",CNN US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1728.jpg" group-title="NOTICIAS-NEWS",DW LATINOAMERICA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/99.jpg" group-title="NOTICIAS-NEWS",EL FINANCIERO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/99.m3u8
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="FOXNews.uk" tvg-logo="http://158.69.228.135:8000/imagenes/233.jpg" group-title="NOTICIAS-NEWS",FOX NEWS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3931.jpg" group-title="NOTICIAS-NEWS",MSNBC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1159.jpg" group-title="NOTICIAS-NEWS",NEWS 12 BRONX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1158.jpg" group-title="NOTICIAS-NEWS",NEWS 12 BROOKLYN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1165.jpg" group-title="NOTICIAS-NEWS",NEWS 12 CONNECTICUT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1163.jpg" group-title="NOTICIAS-NEWS",NEWS 12 HUNDSON VALLEY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1160.jpg" group-title="NOTICIAS-NEWS",NEWS 12 LONG ISLAND
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1162.jpg" group-title="NOTICIAS-NEWS",NEWS 12 NEW JERSEY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1161.jpg" group-title="NOTICIAS-NEWS",NEWS 12 TRAFFIC & WHEATHER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1164.jpg" group-title="NOTICIAS-NEWS",NEWS 12 WESTCHESTER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/2487.jpg" group-title="NOTICIAS-NEWS",NTN24 (VEN)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2487.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula.mx" tvg-logo="http://158.69.228.135:8000/imagenes/11.jpg" group-title="NOTICIAS-NEWS",TELEFORMULA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3480.jpg" group-title="NOTICIAS-NEWS",THE WEATHER CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3480.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC.mx" tvg-logo="http://158.69.228.135:8000/imagenes/85.jpg" group-title="PELICULAS-SERIES",AMC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/85.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC.mx" tvg-logo="http://158.69.228.135:8000/imagenes/157.jpg" group-title="PELICULAS-SERIES",AMC  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/157.m3u8
+#EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-name="AztecaHonduras.hn" tvg-logo="http://158.69.228.135:8000/imagenes/74.jpg" group-title="PELICULAS-SERIES",AZTECA CINEMA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/74.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="http://158.69.228.135:8000/imagenes/75.jpg" group-title="PELICULAS-SERIES",CINECANAL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/113.jpg" group-title="PELICULAS-SERIES",CINECANAL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/113.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="http://158.69.228.135:8000/imagenes/82.jpg" group-title="PELICULAS-SERIES",CINEMAX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/82.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="http://158.69.228.135:8000/imagenes/865.jpg" group-title="PELICULAS-SERIES",CINEMAX  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/865.m3u8
+#EXTINF:-1 tvg-id="DePeliculaHD.mx" tvg-name="DePeliculaHD.mx" tvg-logo="http://158.69.228.135:8000/imagenes/79.jpg" group-title="PELICULAS-SERIES",DE PELICULA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/79.m3u8
+#EXTINF:-1 tvg-id="DePeliculaHD.mx" tvg-name="DePeliculaHD.mx" tvg-logo="http://158.69.228.135:8000/imagenes/866.jpg" group-title="PELICULAS-SERIES",DE PELICULA (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/866.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FoxAction.mx" tvg-logo="http://158.69.228.135:8000/imagenes/70.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM ACTION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/116.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM ACTION (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/116.m3u8
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="FoxCinema.mx" tvg-logo="http://158.69.228.135:8000/imagenes/72.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM CINEMA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/72.m3u8
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FoxClassics.mx" tvg-logo="http://158.69.228.135:8000/imagenes/73.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM CLASSIC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/9560.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM COMEDY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9560.m3u8
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="FoxFamily.mx" tvg-logo="http://158.69.228.135:8000/imagenes/186.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM FAMILY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4880.jpg" group-title="PELICULAS-SERIES",FOX  PREMIUM FAMILY (1080P)-(DUAL AUDIO)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4880.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FoxMovies.mx" tvg-logo="http://158.69.228.135:8000/imagenes/71.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM MOVIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/115.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM MOVIES (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/69.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM SERIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/120.jpg" group-title="PELICULAS-SERIES",FOX PREMIUM SERIES (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4250.jpg" group-title="PELICULAS-SERIES",FXM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4250.m3u8
+#EXTINF:-1 tvg-id="TheFilmZone.mx" tvg-name="TheFilmZone.mx" tvg-logo="http://158.69.228.135:8000/imagenes/4209.jpg" group-title="PELICULAS-SERIES",FXM (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4209.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="http://158.69.228.135:8000/imagenes/77.jpg" group-title="PELICULAS-SERIES",GOLDEN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/77.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden.mx" tvg-logo="http://158.69.228.135:8000/imagenes/122.jpg" group-title="PELICULAS-SERIES",GOLDEN (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/122.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="http://158.69.228.135:8000/imagenes/84.jpg" group-title="PELICULAS-SERIES",GOLDEN EDGE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/8925.jpg" group-title="PELICULAS-SERIES",GOLDEN PREMIER (1080P)(DUAL AUDIO)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/8925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PELICULAS-SERIES",GOLDEN PREMIER 2 (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3099.jpg" group-title="PELICULAS-SERIES",HBO (720P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5415.jpg" group-title="PELICULAS-SERIES",HBO (1080P)(DUAL AUDIO)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5415.m3u8
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3508.jpg" group-title="PELICULAS-SERIES",HBO (OP 2)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3508.m3u8
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="http://158.69.228.135:8000/imagenes/378.jpg" group-title="PELICULAS-SERIES",HBO 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4557.jpg" group-title="PELICULAS-SERIES",HBO 2 (1080P)(DUAL AUDIO)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/182.jpg" group-title="PELICULAS-SERIES",HBO FAMILY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/182.m3u8
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO.mx" tvg-logo="http://158.69.228.135:8000/imagenes/181.jpg" group-title="PELICULAS-SERIES",HBO LATINO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/181.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="http://158.69.228.135:8000/imagenes/377.jpg" group-title="PELICULAS-SERIES",HBO PLUS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/377.m3u8
+#EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-name="HBOPlusEste.ar" tvg-logo="http://158.69.228.135:8000/imagenes/180.jpg" group-title="PELICULAS-SERIES",HBO PLUS OESTE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/180.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="http://158.69.228.135:8000/imagenes/224.jpg" group-title="PELICULAS-SERIES",HBO SIGNATURE (1080P)(DUAL AUDIO)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3681.jpg" group-title="PELICULAS-SERIES",HBO SIGNATURE (LA)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3681.m3u8
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="ISAT.mx" tvg-logo="http://158.69.228.135:8000/imagenes/88.jpg" group-title="PELICULAS-SERIES",I SAT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/88.m3u8
+#EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="MaxPrime.mx" tvg-logo="http://158.69.228.135:8000/imagenes/371.jpg" group-title="PELICULAS-SERIES",MAX PRIME (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/371.m3u8
+#EXTINF:-1 tvg-id="MaxPrimePanregional.mx" tvg-name="MaxPrimePanregional.mx" tvg-logo="http://158.69.228.135:8000/imagenes/370.jpg" group-title="PELICULAS-SERIES",MAX UP
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5240.jpg" group-title="PELICULAS-SERIES",MULTIPREMIER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5240.m3u8
+#EXTINF:-1 tvg-id="Paramount.mx" tvg-name="Paramount.mx" tvg-logo="http://158.69.228.135:8000/imagenes/365.jpg" group-title="PELICULAS-SERIES",PARAMOUNT CHANNEL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/365.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space.mx" tvg-logo="http://158.69.228.135:8000/imagenes/86.jpg" group-title="PELICULAS-SERIES",SPACE HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/86.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space.mx" tvg-logo="http://158.69.228.135:8000/imagenes/156.jpg" group-title="PELICULAS-SERIES",SPACE HD  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/87.jpg" group-title="PELICULAS-SERIES",STUDIO UNIVERSAL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3855.jpg" group-title="PELICULAS-SERIES",SUNDANCE CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3855.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM.mx" tvg-logo="http://158.69.228.135:8000/imagenes/89.jpg" group-title="PELICULAS-SERIES",TCM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/89.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT.mx" tvg-logo="http://158.69.228.135:8000/imagenes/83.jpg" group-title="PELICULAS-SERIES",TNT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/83.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT.mx" tvg-logo="http://158.69.228.135:8000/imagenes/76.jpg" group-title="PELICULAS-SERIES",TNT HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/76.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT.mx" tvg-logo="http://158.69.228.135:8000/imagenes/129.jpg" group-title="PELICULAS-SERIES",TNT HD (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/129.m3u8
+#EXTINF:-1 tvg-id="AE.mx" tvg-name="AE.mx" tvg-logo="http://158.69.228.135:8000/imagenes/19.jpg" group-title="ENTRETENIMIENTO",A&E
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/19.m3u8
+#EXTINF:-1 tvg-id="AE.mx" tvg-name="AE.mx" tvg-logo="http://158.69.228.135:8000/imagenes/124.jpg" group-title="ENTRETENIMIENTO",A&E (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/124.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN.mx" tvg-logo="http://158.69.228.135:8000/imagenes/20.jpg" group-title="ENTRETENIMIENTO",AXN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/20.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN.mx" tvg-logo="http://158.69.228.135:8000/imagenes/125.jpg" group-title="ENTRETENIMIENTO",AXN (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/125.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.mx" tvg-name="SonyEntertainmentTelevision.mx" tvg-logo="http://158.69.228.135:8000/imagenes/15.jpg" group-title="ENTRETENIMIENTO",CANAL SONY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/15.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="http://158.69.228.135:8000/imagenes/22.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/22.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="http://158.69.228.135:8000/imagenes/3538.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3538.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia.mx" tvg-logo="http://158.69.228.135:8000/imagenes/38.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/38.m3u8
+#EXTINF:-1 tvg-id="EEntertainment Television.mx" tvg-name="EEntertainment Television.mx" tvg-logo="http://158.69.228.135:8000/imagenes/29.jpg" group-title="ENTRETENIMIENTO",E! ENTERTAINMENT
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3856.jpg" group-title="ENTRETENIMIENTO",E! ENTERTAINMENT HD (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3856.m3u8
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="Elgourmet.mx" tvg-logo="http://158.69.228.135:8000/imagenes/34.jpg" group-title="ENTRETENIMIENTO",EL GOURMET
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5369.jpg" group-title="ENTRETENIMIENTO",EL GOURMET (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5038.jpg" group-title="ENTRETENIMIENTO",ESTRELLA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",FILM & ARTS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",FOOD NETWORK LATINO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9718.m3u8
+#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="FoxInternational.mx" tvg-logo="http://158.69.228.135:8000/imagenes/14.jpg" group-title="ENTRETENIMIENTO",FOX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/14.m3u8
+#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="FoxInternational.mx" tvg-logo="http://158.69.228.135:8000/imagenes/123.jpg" group-title="ENTRETENIMIENTO",FOX  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/123.m3u8
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FoxLife.mx" tvg-logo="http://158.69.228.135:8000/imagenes/37.jpg" group-title="ENTRETENIMIENTO",FOX LIFE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3859.jpg" group-title="ENTRETENIMIENTO",FUSION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3859.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://158.69.228.135:8000/imagenes/18.jpg" group-title="ENTRETENIMIENTO",FX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/132.jpg" group-title="ENTRETENIMIENTO",FX (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/132.m3u8
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="GarageTV.es" tvg-logo="http://158.69.228.135:8000/imagenes/35.jpg" group-title="ENTRETENIMIENTO",GARAGE TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/35.m3u8
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="http://158.69.228.135:8000/imagenes/36.jpg" group-title="ENTRETENIMIENTO",GLITZ
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/36.m3u8
+#EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="HolaTv.ar" tvg-logo="http://158.69.228.135:8000/imagenes/24.jpg" group-title="ENTRETENIMIENTO",HOLA TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/682.jpg" group-title="ENTRETENIMIENTO",HOLA TV (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/682.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="http://158.69.228.135:8000/imagenes/63.jpg" group-title="ENTRETENIMIENTO",LIFE TIME
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/63.m3u8
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MasChicTV.mx" tvg-logo="http://158.69.228.135:8000/imagenes/26.jpg" group-title="ENTRETENIMIENTO",MAS CHIC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/26.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC.us" tvg-logo="http://158.69.228.135:8000/imagenes/1456.jpg" group-title="ENTRETENIMIENTO",NBC UNIVERSO HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4684.jpg" group-title="ENTRETENIMIENTO",PASIONES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy.mx" tvg-logo="http://158.69.228.135:8000/imagenes/31.jpg" group-title="ENTRETENIMIENTO",SYFY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/31.m3u8
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy.mx" tvg-logo="http://158.69.228.135:8000/imagenes/872.jpg" group-title="ENTRETENIMIENTO",SYFY  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/872.m3u8
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS.mx" tvg-logo="http://158.69.228.135:8000/imagenes/39.jpg" group-title="ENTRETENIMIENTO",TBS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/39.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo.mx" tvg-logo="http://158.69.228.135:8000/imagenes/111.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/111.m3u8
+#EXTINF:-1 tvg-id="Telemundo.ar" tvg-name="Telemundo.ar" tvg-logo="http://158.69.228.135:8000/imagenes/358.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/358.m3u8
+#EXTINF:-1 tvg-id="Telemundo.co" tvg-name="Telemundo.co" tvg-logo="" group-title="ENTRETENIMIENTO",TELEMUNDO LOS ANGELES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1167.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas.co" tvg-name="Tlnovelas.co" tvg-logo="http://158.69.228.135:8000/imagenes/356.jpg" group-title="ENTRETENIMIENTO",TL NOVELAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/356.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="http://158.69.228.135:8000/imagenes/33.jpg" group-title="ENTRETENIMIENTO",TNT SERIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/33.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="http://158.69.228.135:8000/imagenes/128.jpg" group-title="ENTRETENIMIENTO",TNT SERIES (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/128.m3u8
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="truTV.mx" tvg-logo="http://158.69.228.135:8000/imagenes/21.jpg" group-title="ENTRETENIMIENTO",TRUTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/133.jpg" group-title="ENTRETENIMIENTO",TRUTV  (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3506.jpg" group-title="ENTRETENIMIENTO",TVC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3506.m3u8
+#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE.ar" tvg-logo="http://158.69.228.135:8000/imagenes/100.jpg" group-title="ENTRETENIMIENTO",TVE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/100.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="http://158.69.228.135:8000/imagenes/23.jpg" group-title="ENTRETENIMIENTO",UNICABLE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/23.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable.mx" tvg-logo="http://158.69.228.135:8000/imagenes/662.jpg" group-title="ENTRETENIMIENTO",UNICABLE (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/662.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas.us" tvg-logo="http://158.69.228.135:8000/imagenes/482.jpg" group-title="ENTRETENIMIENTO",UNIMAS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/482.m3u8
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://158.69.228.135:8000/imagenes/17.jpg" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/17.m3u8
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UniversalChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/30.jpg" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/30.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/131.jpg" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/131.m3u8
+#EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision.co" tvg-logo="http://158.69.228.135:8000/imagenes/1455.jpg" group-title="ENTRETENIMIENTO",UNIVISION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1455.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/16.jpg" group-title="ENTRETENIMIENTO",WARNER CHANNEL
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/16.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/130.jpg" group-title="ENTRETENIMIENTO",WARNER CHANNEL (1080P)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/68.jpg" group-title="ENTRETENIMIENTO",WOBI
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/68.m3u8
+#EXTINF:-1 tvg-id="Enlace.co" tvg-name="Enlace.co" tvg-logo="http://158.69.228.135:8000/imagenes/2305.jpg" group-title="RELIGION",ENLACE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2305.m3u8
+#EXTINF:-1 tvg-id="Ewtn.co" tvg-name="Ewtn.co" tvg-logo="http://158.69.228.135:8000/imagenes/2304.jpg" group-title="RELIGION",EWTN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5269.jpg" group-title="RELIGION",EWTN LATINO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5270.jpg" group-title="RELIGION",MARIAVISION
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5270.m3u8
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="AandE.us" tvg-logo="http://158.69.228.135:8000/imagenes/299.jpg" group-title="USA-UK",A&E (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3922.jpg" group-title="USA-UK",ABC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3923.jpg" group-title="USA-UK",AMC US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5388.jpg" group-title="USA-UK",AMERICA TEVE MIAMI
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3924.jpg" group-title="USA-UK",ANIMAL PLANET (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3925.jpg" group-title="USA-UK",BBC AMERICA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3925.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCNews.uk" tvg-logo="http://158.69.228.135:8000/imagenes/295.jpg" group-title="USA-UK",BBC ONE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/295.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://158.69.228.135:8000/imagenes/294.jpg" group-title="USA-UK",BBC TWO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/294.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo.us" tvg-logo="http://158.69.228.135:8000/imagenes/293.jpg" group-title="USA-UK",BRAVO (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/293.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="http://158.69.228.135:8000/imagenes/247.jpg" group-title="USA-UK",CARTOON NETWORK (USA)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/247.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS.us" tvg-logo="http://158.69.228.135:8000/imagenes/292.jpg" group-title="USA-UK",CBS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/292.m3u8
+#EXTINF:-1 tvg-id="Chiller.us" tvg-name="Chiller.us" tvg-logo="http://158.69.228.135:8000/imagenes/2853.jpg" group-title="USA-UK",CHILLER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3717.jpg" group-title="USA-UK",CNBC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3927.jpg" group-title="USA-UK",COMEDY CENTRAL (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3928.jpg" group-title="USA-UK",CW
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3929.jpg" group-title="USA-UK",DISCOVERY CHANNEL (USA)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/287.jpg" group-title="USA-UK",E! (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/287.m3u8
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="ElRey.us" tvg-logo="http://158.69.228.135:8000/imagenes/2854.jpg" group-title="USA-UK",EL REY NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/4252.jpg" group-title="USA-UK",FOOD NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/4252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/284.jpg" group-title="USA-UK",FOX (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3930.jpg" group-title="USA-UK",FREEFORM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3930.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX.mx" tvg-logo="http://158.69.228.135:8000/imagenes/2846.jpg" group-title="USA-UK",FX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2846.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXMovieChannel.us" tvg-logo="http://158.69.228.135:8000/imagenes/2855.jpg" group-title="USA-UK",FXM
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2855.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX.us" tvg-logo="http://158.69.228.135:8000/imagenes/230.jpg" group-title="USA-UK",FXX
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/230.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="HallmarkMoviesMysteries.us" tvg-logo="http://158.69.228.135:8000/imagenes/339.jpg" group-title="USA-UK",HALLMARK MOVIES & MYSTERIES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/339.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBOZone.us" tvg-logo="http://158.69.228.135:8000/imagenes/222.jpg" group-title="USA-UK",HBO ZONE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5244.jpg" group-title="USA-UK",HGTV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5244.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HistoryChannel.mx" tvg-logo="http://158.69.228.135:8000/imagenes/278.jpg" group-title="USA-UK",HISTORY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/5409.jpg" group-title="USA-UK",KTLA 5 LOS ANGELES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/5409.m3u8
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="LifetimeNetwork.us" tvg-logo="http://158.69.228.135:8000/imagenes/269.jpg" group-title="USA-UK",LIFETIME US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/269.m3u8
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="NatGeo.uk" tvg-logo="http://158.69.228.135:8000/imagenes/217.jpg" group-title="USA-UK",NATIONAL GEOGRAPHIC CHANNEL HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/217.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC.us" tvg-logo="http://158.69.228.135:8000/imagenes/2840.jpg" group-title="USA-UK",NBC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3934.jpg" group-title="USA-UK",NICKELODEON (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3934.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen.us" tvg-logo="http://158.69.228.135:8000/imagenes/268.jpg" group-title="USA-UK",OXYGEN
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3935.jpg" group-title="USA-UK",PBS (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3935.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesAction.nz" tvg-name="SkyMoviesAction.nz" tvg-logo="http://158.69.228.135:8000/imagenes/329.jpg" group-title="USA-UK",SCAI MOVIES ACTION HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/328.jpg" group-title="USA-UK",SCAI MOVIES COMEDY
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/328.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesDisney.nz" tvg-name="SkyMoviesDisney.nz" tvg-logo="http://158.69.228.135:8000/imagenes/325.jpg" group-title="USA-UK",SCAI MOVIES FAMILY HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/325.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.nz" tvg-name="SkyMoviesPremiere.nz" tvg-logo="http://158.69.228.135:8000/imagenes/322.jpg" group-title="USA-UK",SCAI MOVIES PREMIERE HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/322.m3u8
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="SkySelect.uk" tvg-logo="http://158.69.228.135:8000/imagenes/320.jpg" group-title="USA-UK",SCAI MOVIES SELECT HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/320.m3u8
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="SkyCrimeThriller.uk" tvg-logo="http://158.69.228.135:8000/imagenes/327.jpg" group-title="USA-UK",SCAI MOVIES THRILLER HD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/327.m3u8
+#EXTINF:-1 tvg-id="Sony.us" tvg-name="Sony.us" tvg-logo="http://158.69.228.135:8000/imagenes/313.jpg" group-title="USA-UK",SONY US
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3936.jpg" group-title="USA-UK",SPIKE TV
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3936.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="StarzEdge.us" tvg-logo="http://158.69.228.135:8000/imagenes/309.jpg" group-title="USA-UK",STARZ EDGE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3937.jpg" group-title="USA-UK",SYFY (US)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3937.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC.mx" tvg-logo="http://158.69.228.135:8000/imagenes/260.jpg" group-title="USA-UK",TLC
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/260.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT.us" tvg-logo="http://158.69.228.135:8000/imagenes/259.jpg" group-title="USA-UK",TNT (USA)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/3938.jpg" group-title="USA-UK",USA NETWORK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/469.jpg" group-title="EVENTOS",EVENTO 1
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/470.jpg" group-title="EVENTOS",EVENTO 2
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/471.jpg" group-title="EVENTOS",EVENTO 3
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1747.jpg" group-title="EVENTOS",EVENTO 4
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1748.jpg" group-title="EVENTOS",EVENTO 5
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1749.jpg" group-title="EVENTOS",EVENTO 6
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1750.jpg" group-title="EVENTOS",EVENTO 7
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1751.jpg" group-title="EVENTOS",EVENTO 8
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/imagenes/1752.jpg" group-title="EVENTOS",EVENTO 9
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/3621.jpg" group-title="CANALES 24-7",ALF
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/9717.jpg" group-title="CANALES 24-7",ANIMANIACS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/3061.jpg" group-title="CANALES 24-7",DRAGON BALL SUPER
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2267.jpg" group-title="CANALES 24-7",DR HOUSE
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/9719.jpg" group-title="CANALES 24-7",EL CHAVO DEL 8
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2403.jpg" group-title="CANALES 24-7",EL MENTALISTA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2678.jpg" group-title="CANALES 24-7",ESCANDALOSOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/3007.jpg" group-title="CANALES 24-7",FUTURAMA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/1870.jpg" group-title="CANALES 24-7",GAME OF TRONES
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2466.jpg" group-title="CANALES 24-7",HORA DE AVENTURA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2000.jpg" group-title="CANALES 24-7",LA TEORIA DEL BIG BANG
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/9732.jpg" group-title="CANALES 24-7",LOS 3 CHIFLADOS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/1900.jpg" group-title="CANALES 24-7",LOS SIMPSON (OP1)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/9782.jpg" group-title="CANALES 24-7",LOS SIMPSON (OP2)
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/3494.jpg" group-title="CANALES 24-7",MALCOLM EL DE EN MEDIO
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/3494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/1872.jpg" group-title="CANALES 24-7",PADRE DE FAMILIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/9737.jpg" group-title="CANALES 24-7",PATO AVENTURA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/9737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2165.jpg" group-title="CANALES 24-7",SOUTH PARK
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2331.jpg" group-title="CANALES 24-7",THE FLASH
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/1876.jpg" group-title="CANALES 24-7",THE WALKING DEAD
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/2100.jpg" group-title="CANALES 24-7",UN AGENTE DE FAMILIA
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://158.69.228.135:8000/images/1948.jpg" group-title="CANALES 24-7",UN SHOW MáS
+http://s1.iptvprivado.net:8000/live/erosero/sd89xsm2/1948.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:-1 group-title="ARGENTINA", Canal 26 1
